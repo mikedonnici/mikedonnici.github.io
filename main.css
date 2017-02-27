@@ -1,0 +1,92 @@
+html section, article {
+    /*border: dashed 2px hotpink;*/
+}
+
+body {
+    background-color: #ccc;
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    width: 90vw;
+    margin: 0 auto;
+}
+
+header, footer, main, section , article {  background-color: #ffffff;
+}
+
+header, footer {
+    padding: 2vw 4vw;
+}
+main {
+    padding: 0 4vw 2vw 4vw;
+}
+
+section {
+    padding-top: 2vw;
+}
+
+article {
+    margin: 2vw 0;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 6vw;
+}
+h2 {
+    font-size: 4vw;
+}
+h2.subh {
+    color: #aaa;
+    font-size: 2vw;
+    margin-left: 0.6vw;
+}
+h3 {
+    font-size: 2.4vw;
+    margin: 0 0 0.5vw 0;
+}
+h3.subh {
+    color: #666;
+    font-size: 1.4vw;
+    margin-left: 0.2vw;
+}
+
+h4 {
+    font-size: 1.8vw;
+}
+h5 {
+    font-size: 1.6vw;
+}
+h6 {
+    font-size: 1.5vw;
+}
+
+section h2 {
+    font-variant: small-caps;
+}
+
+div, p, li {
+    font-size: 1.4vw;
+}
+
+a {
+    color: #888;
+}
+a:hover {
+    color: orangered;
+}
+
+ul {
+    margin: 1vw 0 1vw 0.6vw;
+}
+ul > li {
+    margin: 0.6rem 1rem;
+    list-style: disc;
+}
+
+span {
+    color: lightskyblue;
+}
+
+
+
+

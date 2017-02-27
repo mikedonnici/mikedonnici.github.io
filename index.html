@@ -2,89 +2,96 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
-  <title>Mike Donnici</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
-  <!--<script src="https://use.fontawesome.com/b8d7bd1c30.js"></script>-->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-  <style>
-    * {
-      font-family: 'Montserrat', sans-serif;
-      color: #333;
-    }
-  </style>
+    <meta charset="utf-8">
+    <title>Mike Donnici</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 </head>
 
-<body style="background: #ccc;">
-  <div class="row" style="background: #fff; padding: 60px 0 40px 0;">
-    <div class="small-10 small-offset-2 columns">
-      <!-- start content -->
+<body>
 
-      <div class="row">
-        <div class="columns">
-          <h2><span style="color: #ff9900;">Mike Donnici</span></h2>
-        </div>
-      </div>
+<header>
+    <h1>Mike Donnici</h1>
+    <h2 class="subh">web tradesman</h2>
+</header>
+<main>
+    <section>
+        <h2>Work Experience</h2>
 
-      <div class="row" style="padding-bottom: 20px;">
-        <div class="medium-6 columns">
-          <h5 class="subheader" style="margin-left: 0.1em;">web tradesman</h5>
-          <a href="http://mesa.net.au" target="_blank">mesa.net.au</a><br>
-          <a href="https://github.com/mikedonnici" target="_blank">github.com/mikedonnici</a>
-        </div>
-        <div class="medium-6 columns">
-          Callala Bay, NSW AU<br>
-          <a href="mailto:michael@mesa.net.au">michael@mesa.net.au</a><br> +61 402 400 191
-        </div>
-      </div>
+        <article>
+            <h3>IT Manager, <a href="http://www.csanz.edu.au" target="_blank">Cardiac Society ANZ</a></h3>
+            <h3 class="subh">Feb.2014 - present // Sydney, AU</h3>
+            <ul>
+                <li>Manage <a href="https://heartone.com.au" target="_blank">HeartOne</a> CPD platform and membership database</li>
+                <li>Work with CPD committee on strategy</li>
+            </ul>
+        </article>
 
-      <div class="row">
-        <div class="columns">
-          <h4 class="subheader">WORK EXPERIENCE</h4>
-          <p>
-            <strong>IT Manager, CSANZ  - Feb.2014  - present - Sydney, AU</strong><br> - Manage CPD platform and membership database<br> - Work with CPD committee on strategy
-          </p>
-          <p>
-            <strong>Director, Mesa Group  - 2004 - present - Sydney, AU</strong><br> - Web dev and services, AWS, Heroku<br> - Ongoing development of <a href="https://mappcpd.com" target="_blank">MappCPD</a> project
-          </p>
-          <p>
-            <strong>Previous Experiences:</strong><br> - Manage small team of web devs, PHP / MySQL apps<br> - Diverse IT experience, from cat5 cabling to web development
-          </p>
-        </div>
-      </div>
+        <article>
+            <h3>Director, Mesa Group Pty Ltd.</h3>
+            <h3 class="subh">2004 - present // Sydney, AU</h3>
+            <ul>
+                <li>Web development and services, AWS, Heroku</li>
+                <li>Ongoing <a href="https://mappcpd.com" target="_blank">MappCPD</a> project</li>
+            </ul>
+        </article>
 
-      <div class="row">
-        <div class="columns">
-          <h4 class="subheader">SIDE PROJECTS</h4>
-          <p>
-            <a href="https://github.com/mappcpd/api/wiki" target="_blank">mappcpd-api</a>: api project for MappCPD, written in Go<br>
-            <a href="https://github.com/34South" target="_blank">34South</a>: envr and linkr Go packages.<br>
-          </p>
-        </div>
-      </div>
+        <article>
+            <h3>Previous Experience</h3>
+            <h3 class="subh">since 1997</h3>
+            <ul>
+                <li>Diverse networking experience, from cat5 cabling to sys admin</li>
+                <li>Web dev, primarily LAMP stack</li>
+            </ul>
+        </article>
+    </section>
 
-      <div class="row">
-        <div class="columns">
-          <h4 class="subheader">EDUCATION</h4>
-          <p>
-            1998 Grad. Cert. Computing, Monash University<br> 1992 B.Sc.Agr - Crop Sciences, University of Sydney
-          </p>
-        </div>
-      </div>
+    <section>
+        <h2>Side Projects</h2>
 
-      <div class="row">
-        <div class="columns">
-          <h4 class="subheader">TECHNICAL SKILLS</h4>
-          <p>
-            AWS, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP
-          </p>
-        </div>
-      </div>
+        <article>
+            <h3 class="subh">Golang</h3>
+            <ul>
+                <li><a href="https://github.com/mappcpd/api/wiki" target="_blank">mappcpd-api</a>: api project for MappCPD</li>
+                <li><a href="https://github.com/34South/envr" target="_blank">envr:</a> environment set up package</li>
+                <li><a href="https://github.com/34South/linkr" target="_blank">linkr:</a> short link redirector</li>
+                <li><a href="https://github.com/mappcpd/mongr" target="_blank">mongr:</a> migrate / sync MappCPD data from MySQL to MongoDB</li>
+                <li><a href="#" target="_blank">algr</a>: sync MappCPD MongoDB data to Algolia indexes</li>
+            </ul>
+        </article>
 
+        <article>
+            <h3 class="subh">Other</h3>
+            <ul>
+                <li><a href="https://www.algolia.com/" target="_blank">Algolia</a> index search for MappCPD resources (<a href="https://cardiacsociety.github.io/h1-search/resource.html" target="_blank">demo</a>)</li>
+                <li>Learning React</li>
+            </ul>
+        </article>
 
-      <!-- end content -->
-    </div>
-  </div>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <article>
+            <ul>
+                <li>1998 Grad. Cert. Computing, Monash University</li>
+                <li>1992 B.Sc.Agr (Crop Sciences), University of Sydney</li>
+            </ul>
+        </article>
+    </section>
+
+    <section>
+        <h2>Tech Skills</h2>
+        <article>
+            <p>AWS, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP</p>
+        </article>
+    </section>
+
+</main>
+
+<footer>
+
+</footer>
 </body>
-
 </html>
