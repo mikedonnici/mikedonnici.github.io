@@ -5,117 +5,163 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Mike&nbsp;Donnici</title>
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="main.css">
-    <link rel="stylesheet" href="mq-medium.css" media="(min-width: 680px)">
-    <link rel="stylesheet" href="mq-large.css" media="(min-width: 1000px)">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    <link rel="stylesheet" href="custom.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
-<body>
+<body class="flow-text">
+
+<svg aria-hidden="true" style="display:none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="github" viewBox="0 0 16 16">
+        <path d="M7.499,1C3.91,1,1,3.906,1,7.49c0,2.867,1.862,5.299,4.445,6.158C5.77,13.707,6,13.375,6,13.125 c0-0.154,0.003-0.334,0-0.875c-1.808,0.392-2.375-0.875-2.375-0.875c-0.296-0.75-0.656-0.963-0.656-0.963 c-0.59-0.403,0.044-0.394,0.044-0.394C3.666,10.064,4,10.625,4,10.625c0.5,0.875,1.63,0.791,2,0.625 c0-0.397,0.044-0.688,0.154-0.873C4.111,10.02,2.997,8.84,3,7.208c0.002-0.964,0.335-1.715,0.876-2.269 C3.639,4.641,3.479,3.625,3.961,3c1.206,0,1.927,0.873,1.927,0.873s0.565-0.248,1.61-0.248c1.045,0,1.608,0.234,1.608,0.234 S9.829,3,11.035,3c0.482,0.625,0.322,1.641,0.132,1.918C11.684,5.461,12,6.21,12,7.208c0,1.631-1.11,2.81-3.148,3.168 C8.982,10.572,9,10.842,9,11.25c0,0.867,0,1.662,0,1.875c0,0.25,0.228,0.585,0.558,0.522C12.139,12.787,14,10.356,14,7.49 C14,3.906,11.09,1,7.499,1z"/>
+    </symbol>
+</svg>
 
 <header>
-    <section>
-        <h1>Mike Donnici</h1>
-        <h2>web tradesman</h2>
-    </section>
-    <address>
-            <a href="https://goo.gl/maps/9pzJWttnCg12" target="_blank">Callala Bay, Australia</a><br>
-            <a href="mailto:michael@mesa.net.au" target="_blank">michael@mesa.net.au</a><br>
-            <a href="https://github.com/mikedonnici" target="_blank">github.com/mikedonnici</a>
-    </address>
+    <nav class="nav-extended light-blue">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a class="brand-logo" href="https://github.com/mikedonnici" target="_blank">
+                    <svg class="icon"><use xlink:href="#github"/></svg> Mike Donnici
+                </a>
+            </div>
+        </div>
+    </nav>
+    <div class="fixed-action-btn hover-to-toggle">
+        <a class="btn-floating btn-large light-blue">
+            <i class="material-icons">menu</i>
+        </a>
+        <ul>
+            <li><a class="btn-floating green" href="mailto:michael@mesa.net.au" title="email me"><i class="material-icons">email</i></a></li>
+            <li><a class="btn-floating red" href="https://goo.gl/maps/PnDpfjKWQkB2" title="where am i?" target="_blank"><i class="material-icons">place</i></a></li>
+            <li><a class="btn-floating grey darken-3" href="https://github.com/mikedonnici" title="my github account" target="_blank"><i class="material-icons"><svg class="icon"><use xlink:href="#github"/></svg></i></a></li>
+        </ul>
+    </div>
+    </div>
 </header>
+
 <main>
-    <section>
-        <span>
-        Genetically motivated all-rounder, perpetual learner, ideas advocate, brazilian jiu-jitsu fundamentalist, sailing enthusiast.</span>
-    </section>
-    <section>
-        <h2>Work Experience</h2>
+    <div class="container">
 
-        <article>
-            <h3>IT Manager, <abbr title="Cardiac Society of Australia and New Zealand"><a href="http://www.csanz.edu.au" target="_blank">CSANZ</a></abbr></h3>
-            <h4>Feb.2014 - present // Sydney, AU</h4>
-            <ul>
-                <li>Manage <a href="http://heartone.com.au" target="_blank">HeartOne</a> platform and development
-                </li>
-                <li>Consult to <abbr title="Cardiac Society of Australia and New Zealand">CSANZ</abbr> CPD committee on tech &amp; dev issues</li>
-            </ul>
-        </article>
+        <div class="row">
+            <div class="col s12">
+                <p class="flow-text">
+                    Genetically motivated all-rounder, perpetual learner,
+                    ideas advocate, brazilian jiu-jitsu fundamentalist, occasional sailor.
+                </p>
+            </div>
+        </div>
 
-        <article>
-            <h3>Director, Mesa Group Pty Ltd.</h3>
-            <h4>2004 - present // Sydney, AU</h4>
-            <ul>
-                <li>Web development and services, AWS, Heroku</li>
-                <li>Ongoing <a href="https://mappcpd.com" target="_blank">MappCPD</a> project</li>
-                <li>Provision of <a href="http://heartone.com.au" target="_blank">HeartOne</a> web services</li>
-            </ul>
-        </article>
+        <div class="divider"></div>
+        <div class="section">
+            <h3>Work</h3>
 
-        <article>
-            <h3>Previous Experience</h3>
-            <h4>since 1997</h4>
-            <ul>
-                <li>Diverse networking experience, from cat5 cabling to sys admin</li>
-                <li>Web dev, primarily LAMP stack</li>
-            </ul>
-        </article>
-    </section>
+            <article>
+                <h5>IT Manager, <abbr title="Cardiac Society of Australia and New Zealand">
+                    <a href="http://www.csanz.edu.au" target="_blank">CSANZ</a></abbr>
+                </h5>
+                <h6>Feb.2014 - present // Sydney, AU</h6>
+                <ul>
+                    <li>- Management and ongoing development of the <a href="http://heartone.com.au" target="_blank">HeartOne</a>
+                        <abbr title="Continuing Professional Development">CPD</abbr> platform</li>
+                    <li>- Consult to CPD committee on tech &amp; dev issues</li>
+                </ul>
+            </article>
 
-    <section>
-        <h2>Projects</h2>
+            <article>
+                <h5>Owner / Director, <a href="http://mesa.net.au" target="_blank">Mesa</a></h5>
+                <h6>2004 - present // Sydney, AU</h6>
+                <ul>
+                    <li>- Web development and services, AWS, Heroku</li>
+                    <li>- <a href="https://mappcpd.com" target="_blank">MappCPD</a> system operations</li>
+                    <li>- Online ordering system for <a href="http://gelatomessina.com" target="_blank">Gelato Messina</a></li>
+                </ul>
+            </article>
 
-        <article>
-            <h4>Golang</h4>
-            <ul>
-                <li><a href="https://github.com/mappcpd/api/wiki" target="_blank">mappcpd-api</a>: api project for
-                    MappCPD
-                </li>
-                <li><a href="https://github.com/34South/envr" target="_blank">envr:</a> environment set up package</li>
-                <li><a href="https://github.com/34South/linkr" target="_blank">linkr:</a> short link redirector</li>
-                <li><a href="https://github.com/mappcpd/mongr" target="_blank">mongr:</a> migrate / sync MappCPD data
-                    from MySQL to MongoDB
-                </li>
-                <li><a href="#" target="_blank">algr</a>: sync MappCPD MongoDB data to Algolia indexes</li>
-            </ul>
-        </article>
+            <article>
+                <h5>Previous</h5>
+                <h6>since 1997</h6>
+                <ul>
+                    <li>- Diverse networking experience, from cat5 cabling to linux sys admin</li>
+                    <li>- Web development, primarily LAMP stack</li>
+                </ul>
+            </article>
+        </div>
 
-        <article>
-            <h4>Other</h4>
-            <ul>
-                <li><a href="https://www.algolia.com/" target="_blank">Algolia</a> index search for MappCPD resources
-                    (<a href="http://codepen.io/mikedonnici/full/vgjNBg/" target="_blank">demo</a>)
-                </li>
-                <li>Learning React</li>
-            </ul>
-        </article>
+        <div class="divider"></div>
+        <div class="section">
 
-    </section>
+            <h3>Projects</h3>
 
-    <section>
-        <h2>Education</h2>
-        <article>
-            <ul>
-                <li>1998 Grad. Cert. Computing, Monash University</li>
-                <li>1992 B.Sc.Agr (Crop Sciences), University of Sydney</li>
-            </ul>
-        </article>
-    </section>
+            <article>
+                <h5>MappCPD Services written in Go</h5>
+                <ul>
+                    <li><a href="https://github.com/mappcpd/api" target="_blank">api</a>: API service for MappCPD</li>
+                    <li><a href="https://github.com/mappcpd/mongr" target="_blank">mongr</a>: sync data from MySQL to MongoDB</li>
+                    <li><a href="#" target="_blank">algr</a>: sync data to Algolia indexes</li>
+                </ul>
 
-    <section>
-        <h2>Tech</h2>
-        <article>
-            <ul>
-                <li>AWS, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP</li>
-            </ul>
-        </article>
-    </section>
+                <h5>General Go Packages</h5>
+                <ul>
+                    <li><a href="https://github.com/34South/envr" target="_blank">envr</a>: environment set up package</li>
+                    <li><a href="https://github.com/34South/linkr" target="_blank">linkr</a>: short link redirector</li>
+                </ul>
+            </article>
 
+            <article>
+                <h5>Other</h5>
+                <ul>
+                    <li><a href="https://www.algolia.com/" target="_blank">Algolia</a> index search for MappCPD resources
+                        (<a href="http://codepen.io/mikedonnici/full/vgjNBg/" target="_blank">demo</a>)
+                    </li>
+                    <li>Started to dabble with React and Elixir</li>
+                </ul>
+            </article>
+        </div>
+
+        <div class="divider"></div>
+        <div class="section">
+            <h3>Education</h3>
+            <article>
+                <ul>
+                    <li>1998 Grad. Cert. Computing, Monash University</li>
+                    <li>1992 B.Sc.Agr (Crop Sciences), University of Sydney</li>
+                </ul>
+            </article>
+        </div>
+
+        <div class="divider"></div>
+        <div class="section">
+            <h3>Tech</h3>
+            <article>
+                <ul>
+                    <li>AWS, Git, Go, Heroku, Linux, MongoDB, MySQL, PHP</li>
+                </ul>
+            </article>
+        </div>
+
+    </div>
 </main>
 
-<footer>
-
+<footer class="page-footer grey">
+    <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <h5 class="white-text"></h5>
+                <p class="grey-text text-lighten-4">I'm focused on honing my Golang chops on backend web services, and
+                    open to work opportunities with good people. I currently work remotely, with occasional travel to Sydney.</p>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            &nbsp;
+        </div>
+    </div>
 </footer>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 </body>
 </html>
