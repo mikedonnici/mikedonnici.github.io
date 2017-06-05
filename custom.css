@@ -19,3 +19,7 @@ nav .icon {
 ul {
     margin-top: 0;
 }
+
+li span {
+  font-size: 0.8em;
+}
