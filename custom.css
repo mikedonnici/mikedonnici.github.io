@@ -23,3 +23,20 @@ ul {
 li span {
   font-size: 0.8em;
 }
+
+.footer-copyright .container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8em;
+}
+.footer-copyright i {
+  vertical-align: -0.2em;
+}
+.footer-copyright .container a {
+    color: whitesmoke;
+}
+.footer-copyright .container a:hover {
+    color: antiquewhite;
+}
