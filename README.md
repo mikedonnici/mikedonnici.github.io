@@ -1,13 +1,12 @@
 # Mike Donnici
 
-I am a highly-motivated human with diverse experience, ranging from data cabling to full-stack web development. My
-primary focus is now on backend development with Go and Python. I approach my work with enthusiasm and a constant drive
-for self-improvement, always seeking to enhance my skills and to deliver efficient, scalable and understandable
-solutions.
+I'm a motivated individual with a range of experiences, from data cabling to full-stack web development.
+Currently, I'm focused on backend services using Go and Python. I approach my work with enthusiasm and a constant
+drive to improve, always aiming to enhance my skills and provide effective, scalable, and clear solutions.
 
-In terms of the software developer [tribes](https://josephg.com/blog/3-tribes/), I'd place myself between _builder_ and
-_engineer_. My approach to software development strikes a balance between practical problem-solving and performance
-optimisation. I value clarity over cleverness, aiming to create solutions that are both functional and maintainable.
+In terms of software development [tribes](https://josephg.com/blog/3-tribes/), I see myself as a mix between a *builder*
+and an *engineer*. My approach finds a balance between practical problem-solving and optimizing performance. I value
+clarity over cleverness, aiming to create functional and maintainable solutions.
 
 ## Tech Skills
 
