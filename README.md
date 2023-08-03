@@ -1,18 +1,18 @@
 # Mike Donnici
 
-I am a highly motivated all-rounder with a strong foundation in full-stack development. Currently, my primary focus is
-on backend services using Go and Python. I approach my work with enthusiasm and a constant drive for self-improvement,
-always seeking to enhance my skills and to deliver efficient, scalable and understandable solutions.
+I am a highly-motivated human with diverse experience, ranging from data cabling to full-stack web development. My
+primary focus is now on backend development with Go and Python. I approach my work with enthusiasm and a constant drive
+for self-improvement, always seeking to enhance my skills and to deliver efficient, scalable and understandable
+solutions.
 
-In terms of the software developer [tribes](https://josephg.com/blog/3-tribes/), I'd place myself midway
-between the _builder_ and _engineer_. My approach to software development strikes a balance between practical
-problem-solving and performance optimisation. I value clarity over cleverness, aiming to create solutions that are both
-functional and maintainable.
+In terms of the software developer [tribes](https://josephg.com/blog/3-tribes/), I'd place myself between _builder_ and
+_engineer_. My approach to software development strikes a balance between practical problem-solving and performance
+optimisation. I value clarity over cleverness, aiming to create solutions that are both functional and maintainable.
 
 ## Tech Skills
 
 - *Proficient*: Linux, Go, Python, MySQL
-- *Experience*:  Docker, AWS, Postgres/PostGIS,
+- *Experience*: Docker, AWS, Postgres/PostGIS,
 - *Exposure*: GCP, Jupyter, Pandas, MongoDB
 - *Exploring*: Rust
 
@@ -20,58 +20,61 @@ functional and maintainable.
 
 **Software Engineer @ [Regrow Ag](https://regrow.ag/)**
 
-*Oct 2021 - Present // Remote (Global)*
+*Oct 2021 - Present // Remote (Global)*<br>
+*Go, Python, MySQL, Protobuf, Docker, Github Actions*
 
 At Regrow, my primary focus is the development of backend services and APIs for
-the [Crop Insights](https://www.regrow.ag/crop-insights)  and [MRV](https://www.regrow.ag/mrv) products. These are a
-combination of services written in Go and Python with MySQL databases. A key part of my role is integration with
+the [Crop Insights](https://www.regrow.ag/crop-insights) and [MRV](https://www.regrow.ag/mrv) products. These are a
+combination of services written in Go and Python backed by MySQL databases. A key part of my role is integration with
 third-party Farm Management Systems such as John Deere, Climate and AgX. I collaborate closely with product managers,
 engineers and science teams to create solutions across multiple business domains.
 
 **Geo-science Data Systems
 Developer @ [Geological Survey of NSW](https://meg.resourcesregulator.nsw.gov.au/geological-survey)**
 
-*Nov 2020 - Oct 2021 // Remote (Maitland, NSW)*
+*Nov 2020 - Oct 2021 // Remote (Maitland, NSW)*<br>
+*AWS, Linux, SaltStack, Python, Postgres / PostGIS, Geoserver, Angular*
 
 In my full-stack role at the Geological Survey of NSW, I worked on two public web
-applications, [MinView](https://minview.geoscience.nsw.gov.au/) and [DiGS](https://search.geoscience.nsw.gov.au/).
-Collaborating closely with the data team, we implement new features and functionalities while ensuring the applications'
-continuous improvement. Part of my responsibilities included Linux server management and devops tasks and I had the
-opportunity to gain valuable insights into geospatial technologies and applications.
-*Tech: AWS, Linux, SaltStack, Python, Postgres / PostGIS, Geoserver, Angular*
+applications: [MinView](https://minview.geoscience.nsw.gov.au/) and [DiGS](https://search.geoscience.nsw.gov.au/).
+Collaborating closely with the data team, I worked on new features and continuous improvement. My responsibilities
+included Linux server management and devops task and gained valuable insights into geospatial technologies and
+applications.
 
 **Software Engineer @ [Humanetix](https://www.humanetix.com.au/)**
 
-*Sep 2019 - Nov 2020 // Remote (Canberra, ACT)*
+*Sep 2019 - Nov 2020 // Remote (Canberra, ACT)*<br>
+*AWS, Linux, Docker, Jenkins, Kotlin, Go, Python, Postgres*
 
 During my time as a Software Engineer at Humanetix, I made significant contributions to the development of
 the [Ace](https://www.humanetix.com.au/ace) healthcare application, in particular the back-end services. Additionally, I
 took the initiative to prototype a data analysis component, which added valuable insights and analytical capabilities to
 the application.
-_Tech: AWS, Linux, Docker, Jenkins, Kotlin, Go, Python, Postgres_
 
 **Web Services Manager, Cardiac Society of Australia and New Zealand**
 
-*Feb 2014 - Sep 2019 // Remote (Sydney)*
+*Feb 2014 - Sep 2019 // Remote (Sydney)*<br>
+*AWS, Heroku, Linux, PHP, Go, MySQL, Vue*
 
-As the Web Services Manager at CSANZ, I held sole responsibility for the development and maintenance of an in-house
-membership and CPD application. I worked closely with CSANZ stakeholders to enhance the system's functionality and to
-provide a better experience for members in support of their professional development journey.
-_Tech: AWS, Heroku, Linux, PHP, Go, MySQL, Vue_
+As the Web Services Manager at [CSANZ](https://www.csanz.edu.au/), I held sole responsibility for the development and
+maintenance of an in-house membership and CPD application. I worked closely with CSANZ stakeholders to enhance the
+system's functionality and to continually improve the experience for members in support of their professional
+development journey.
 
 **Self-employed (dataLab / Mesa)**
 
-_2000 - 2018 // Sydney_
+*2000 - 2018 // Sydney*<br>
+*Linux, PHP, MySQL*
 
 As a self-employed professional I led a small and dynamic team based in Sydney from 2000 to 2018, providing exceptional
-web design and development services to a diverse range of clients. In this role, I assumed the responsibility of
-overseeing all phases of development, ensuring the delivery of high-quality, purpose-built solutions. Additionally, I
-also provided contract Linux systems administration services.
-_Tech: Linux, PHP, MySQL_
+web design and development services to a diverse range of clients. In this role, I was responsible for project
+management and all phases of development, ensuring the delivery of high-quality, purpose-built solutions. I also
+provided contract Linux systems administration services.
 
 **Network Support Technician, SouthWest ComputAble**
 
-*1999 - 2000 // Margaret River, WA*
+*1999 - 2000 // Margaret River, WA*<br>
+*Hardware, Networking, Windows, Linux*
 
 During my role as a Network Support Technician at SouthWest ComputAble, I provided valuable services to regional
 customers, including PC repairs and network support. During this time, I obtained the Microsoft Certified Systems
