@@ -4,19 +4,17 @@ I am a highly motivated all-rounder with a strong foundation in full-stack devel
 on backend services using Go and Python. I approach my work with enthusiasm and a constant drive for self-improvement,
 always seeking to enhance my skills and to deliver efficient, scalable and understandable solutions.
 
-In terms of the software developer _tribes*_ concept, I position myself midway between the _builder_ and _engineer_
-archetypes. My approach to software development strikes a balance between practical problem-solving and performance
-optimisation. I value clarity over cleverness, aiming to create solutions that are both functional and maintainable.
-
-\* https://josephg.com/blog/3-tribes/
+In terms of the software developer [tribes](https://josephg.com/blog/3-tribes/), I'd place myself midway
+between the _builder_ and _engineer_. My approach to software development strikes a balance between practical
+problem-solving and performance optimisation. I value clarity over cleverness, aiming to create solutions that are both
+functional and maintainable.
 
 ## Tech Skills
 
-- *Proficient:* Linux, Go, Python, MySQL
-
-- _Experience_:  Docker, AWS, Postgres/PostGIS,
-- _Exposure_: GCP, Jupyter, Pandas, MongoDB
-- *Exploring:* Rust
+- *Proficient*: Linux, Go, Python, MySQL
+- *Experience*:  Docker, AWS, Postgres/PostGIS,
+- *Exposure*: GCP, Jupyter, Pandas, MongoDB
+- *Exploring*: Rust
 
 ## Employment History
 
@@ -82,8 +80,6 @@ business.
 
 ## Education
 
-• 2000 - Microsoft Certified Systems Engineer (NT4.0)
-
-• 1998 - Graduate Certificate in Computing, Monash University
-
-• 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
+- 2000 - Microsoft Certified Systems Engineer (NT4.0)
+- 1998 - Graduate Certificate in Computing, Monash University
+- 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
