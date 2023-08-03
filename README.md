@@ -1,7 +1,3 @@
----
-title: Mike Donnici
----
-
 ## Overview
 
 I am a motivated all-rounder with a good mix of full-stack experience.
