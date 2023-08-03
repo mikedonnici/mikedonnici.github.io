@@ -1,65 +1,89 @@
 # Mike Donnici
 
-I am a motivated all-rounder with a good mix of full-stack experience.
-My current focus is on backend development with Go and Python.
+I am a highly motivated all-rounder with a strong foundation in full-stack development. Currently, my primary focus is
+on backend services using Go and Python. I approach my work with enthusiasm and a constant drive for self-improvement,
+always seeking to enhance my skills and to deliver efficient, scalable and understandable solutions.
 
-In the continuum of software
-developer [tribes](https://josephg.com/blog/3-tribes/) I would fall about
-here:
+In terms of the software developer _tribes*_ concept, I position myself midway between the _builder_ and _engineer_
+archetypes. My approach to software development strikes a balance between practical problem-solving and performance
+optimisation. I value clarity over cleverness, aiming to create solutions that are both functional and maintainable.
 
-builder ____ :construction_worker: ____ engineer _________ mathematician
+\* https://josephg.com/blog/3-tribes/
 
-## Tech
+## Tech Skills
 
-- _now:_ Go, Python, MySQL, Docker
-- _prev:_ PHP, Vue, Postgres/PostGIS, GeoServer
-- _some:_ Jupyter, Pandas, MongoDB
-- _play:_ Rust, Unison
+- *Proficient:* Linux, Go, Python, MySQL
 
-## Employment
+- _Experience_:  Docker, AWS, Postgres/PostGIS,
+- _Exposure_: GCP, Jupyter, Pandas, MongoDB
+- *Exploring:* Rust
 
-**Software Developer, Regrow Ag**
-_Oct 2021 - Present // remote (Global)_
-- Developing backend services
-  for [Flurosense](https://www.regrow.ag/flurosense)
-  and [MRV](https://www.regrow.ag/mrv) products
+## Employment History
 
-**Geoscience Data Systems Developer, Geological Survey of NSW**
-_Nov 2020 - Oct 2021 // remote (Maitland, NSW)_
-- Work closely with data team to develop backend services
-  for public web applications: [MinView](https://minview.geoscience.nsw.gov.au/)
-  and [DiGS](https://search.geoscience.nsw.gov.au/)
-- Server management and DevOps, some geospatial experience
+**Software Engineer @ [Regrow Ag](https://regrow.ag/)**
 
-**Software Engineer, Humanetix**
-_Sep 2019 - Nov 2020 // remote (Canberra, ACT)_
-- Worked on team developing [Ace](https://www.humanetix.com.au/ace) healthcare
-  application
-- Prototyped data analysis component for the application
+*Oct 2021 - Present // Remote (Global)*
+
+At Regrow, my primary focus is the development of backend services and APIs for
+the [Crop Insights](https://www.regrow.ag/crop-insights)  and [MRV](https://www.regrow.ag/mrv) products. These are a
+combination of services written in Go and Python with MySQL databases. A key part of my role is integration with
+third-party Farm Management Systems such as John Deere, Climate and AgX. I collaborate closely with product managers,
+engineers and science teams to create solutions across multiple business domains.
+
+**Geo-science Data Systems
+Developer @ [Geological Survey of NSW](https://meg.resourcesregulator.nsw.gov.au/geological-survey)**
+
+*Nov 2020 - Oct 2021 // Remote (Maitland, NSW)*
+
+In my full-stack role at the Geological Survey of NSW, I worked on two public web
+applications, [MinView](https://minview.geoscience.nsw.gov.au/) and [DiGS](https://search.geoscience.nsw.gov.au/).
+Collaborating closely with the data team, we implement new features and functionalities while ensuring the applications'
+continuous improvement. Part of my responsibilities included Linux server management and devops tasks and I had the
+opportunity to gain valuable insights into geospatial technologies and applications.
+*Tech: AWS, Linux, SaltStack, Python, Postgres / PostGIS, Geoserver, Angular*
+
+**Software Engineer @ [Humanetix](https://www.humanetix.com.au/)**
+
+*Sep 2019 - Nov 2020 // Remote (Canberra, ACT)*
+
+During my time as a Software Engineer at Humanetix, I made significant contributions to the development of
+the [Ace](https://www.humanetix.com.au/ace) healthcare application, in particular the back-end services. Additionally, I
+took the initiative to prototype a data analysis component, which added valuable insights and analytical capabilities to
+the application.
+_Tech: AWS, Linux, Docker, Jenkins, Kotlin, Go, Python, Postgres_
 
 **Web Services Manager, Cardiac Society of Australia and New Zealand**
-_Feb 2014 - Sep 2019 // remote (Sydney)_
-- Developed and maintained membership / CPD application
-- Extended existing monolith with new services and APIs
 
-**Principal Owner, Mesa Group Pty Ltd.**
-_2004 - 2018 // Sydney_
-- Led a small, feisty team providing web development and services
-- Managed all phases of development to deliver quality, fit-for-purpose
-  solutions
+*Feb 2014 - Sep 2019 // Remote (Sydney)*
 
-**Self Employed, dataLab**
-_2000 - 2004 // Sydney_
-- Provided contract Linux systems administration services
-- Developed custom web applications
+As the Web Services Manager at CSANZ, I held sole responsibility for the development and maintenance of an in-house
+membership and CPD application. I worked closely with CSANZ stakeholders to enhance the system's functionality and to
+provide a better experience for members in support of their professional development journey.
+_Tech: AWS, Heroku, Linux, PHP, Go, MySQL, Vue_
 
-**Network Support Technician, SouthWest ComputAble**</br>
-_1999 - 2000 // Margaret River, WA_
-- Provided PC repairs and network support for regional customers
-- Enhanced network support capability through the attainment of MCSE
+**Self-employed (dataLab / Mesa)**
+
+_2000 - 2018 // Sydney_
+
+As a self-employed professional I led a small and dynamic team based in Sydney from 2000 to 2018, providing exceptional
+web design and development services to a diverse range of clients. In this role, I assumed the responsibility of
+overseeing all phases of development, ensuring the delivery of high-quality, purpose-built solutions. Additionally, I
+also provided contract Linux systems administration services.
+_Tech: Linux, PHP, MySQL_
+
+**Network Support Technician, SouthWest ComputAble**
+
+*1999 - 2000 // Margaret River, WA*
+
+During my role as a Network Support Technician at SouthWest ComputAble, I provided valuable services to regional
+customers, including PC repairs and network support. During this time, I obtained the Microsoft Certified Systems
+Engineer (MCSE) certification, enhancing my networking skills and elevating the network support capabilities of the
+business.
 
 ## Education
 
-- 2000 - Microsoft Certified Systems Engineer (NT4.0)
-- 1998 - Grad. Cert. Computing, Monash University
-- 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
+• 2000 - Microsoft Certified Systems Engineer (NT4.0)
+
+• 1998 - Graduate Certificate in Computing, Monash University
+
+• 1992 - B.Sc.Agr (Crop Sciences), University of Sydney
