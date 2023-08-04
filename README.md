@@ -37,7 +37,7 @@ Developer @ [Geological Survey of NSW](https://meg.resourcesregulator.nsw.gov.au
 In my full-stack role at the Geological Survey of NSW, I worked on two public web
 applications: [MinView](https://minview.geoscience.nsw.gov.au/) and [DiGS](https://search.geoscience.nsw.gov.au/).
 Collaborating closely with the data team, I worked on new features and continuous improvement. My responsibilities
-included Linux server management and devops task and gained valuable insights into geospatial technologies and
+included Linux server management and devops tasks and I also gained valuable experience with geospatial technologies and
 applications.
 
 **Software Engineer @ [Humanetix](https://www.humanetix.com.au/)**
