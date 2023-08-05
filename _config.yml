@@ -1,5 +1,2 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-name: Notes
-sidebar:
-  git
-  github-actions
+name: CV
+title: false
