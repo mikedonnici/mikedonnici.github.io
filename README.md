@@ -28,6 +28,8 @@ combination of services written in Go and Python backed by MySQL databases. A ke
 third-party Farm Management Systems such as John Deere, Climate and AgX. I collaborate closely with product managers,
 engineers and science teams to create solutions across multiple business domains.
 
+---
+
 **Geo-science Data Systems
 Developer @ [Geological Survey of NSW](https://meg.resourcesregulator.nsw.gov.au/geological-survey)**
 
@@ -40,6 +42,8 @@ Collaborating closely with the data team, I worked on new features and continuou
 included Linux server management and devops tasks and I also gained valuable experience with geospatial technologies and
 applications.
 
+---
+
 **Software Engineer @ [Humanetix](https://www.humanetix.com.au/)**
 
 *Sep 2019 - Nov 2020 // Remote (Canberra, ACT)*<br>
@@ -49,6 +53,8 @@ During my time as a Software Engineer at Humanetix, I made significant contribut
 the [Ace](https://www.humanetix.com.au/ace) healthcare application, in particular the back-end services. Additionally, I
 took the initiative to prototype a data analysis component, which added valuable insights and analytical capabilities to
 the application.
+
+---
 
 **Web Services Manager, Cardiac Society of Australia and New Zealand**
 
@@ -60,6 +66,8 @@ maintenance of an in-house membership and CPD application. I worked closely with
 system's functionality and to continually improve the experience for members in support of their professional
 development journey.
 
+---
+
 **Self-employed (dataLab / Mesa)**
 
 *2000 - 2018 // Sydney*<br>
@@ -69,6 +77,8 @@ As a self-employed professional I led a small and dynamic team based in Sydney f
 web design and development services to a diverse range of clients. In this role, I was responsible for project
 management and all phases of development, ensuring the delivery of high-quality, purpose-built solutions. I also
 provided contract Linux systems administration services.
+
+---
 
 **Network Support Technician, SouthWest ComputAble**
 
