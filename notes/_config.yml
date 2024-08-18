@@ -1,5 +1,0 @@
-remote-theme: zendesk/jekyll-theme-zendesk-garden@main
-name: Notes
-sidebar:
-  git
-  github-actions
