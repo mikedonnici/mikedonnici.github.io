@@ -1,6 +1,6 @@
 ## Mike Donnici
 
-Jervis Bay | michael.donnici@gmail.com | linkedin.com/in/mikedonnici | github.com/mikedonnici
+Jervis Bay \| michael.donnici@gmail.com \| linkedin.com/in/mikedonnici \| github.com/mikedonnici
 
 ---
 
