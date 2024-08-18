@@ -27,7 +27,7 @@ maintainable solutions.
 *Remote | Nov 2020 – Oct 2021*
 
 - Fullstack engineering of public-facing web applications - Python, Postgres, Geoserver, Angular
-- Server management an DevOps - AWS, Linux, SaltStack
+- Server management and DevOps - AWS, Linux, SaltStack
 - Collaboration with Geoscience Data Team on application feature design and development
 - Acquire fundamental skills in various geospatial tools and technology
 
@@ -35,7 +35,7 @@ maintainable solutions.
 *Canberra & Remote | Sep 2019 - Nov 2020*
 
 - Engineering of microservices for healthcare application - Go, Kotlin, Postgres, Kafka
-- Development of a prototype data analyisis component - Python
+- Development of a prototype data analysis component - Python
 - Assisting with DevOps tasks - AWS, Linux, Docker, Jenkins
 
 **Online Service Manager, Cardiac Society of Australia and New Zealand**
@@ -47,7 +47,7 @@ maintainable solutions.
 **Owner / Director, Mesa**
 *Sydney & Remote | 2000 - 2018*
 
-- Managed a small team of web designers and developers in a diverse range of web and LAMP stack projects
+- Managed a small team of web designers and developers across a diverse range of web and LAMP stack projects
 - Contract Linux systems management
 
 **Network Support Technician, SouthWest ComputeAble**
