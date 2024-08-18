@@ -6,10 +6,7 @@ Jervis Bay \| michael.donnici@gmail.com \| linkedin.com/in/mikedonnici \| github
 
 ### Overview
 
-An experienced software engineer specializing in backend services with Go and Python, driven by a passion for continuous
-learning and improvement. Enthusiastic about breaking down complex domain problems, I actively contribute across all
-phases, from concept to development and deployment, prioritizing clarity over cleverness and focusing on functional,
-maintainable solutions.
+An experienced software engineer specializing in backend services with Go and Python, driven by a passion for continuous learning and improvement. Enthusiastic about breaking down complex domain problems, I actively contribute across all phases, from concept to development and deployment, prioritizing clarity over cleverness and focusing on functional, maintainable solutions.
 
 ---
 
@@ -47,7 +44,7 @@ maintainable solutions.
 **Owner / Director, Mesa**
 *Sydney & Remote | 2000 - 2018*
 
-- Managed a small team of web designers and developers across a diverse range of web and LAMP stack projects
+- Managed a diverse range of web and LAMP stack projects
 - Contract Linux systems management
 
 **Network Support Technician, SouthWest ComputeAble**
