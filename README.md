@@ -11,7 +11,7 @@ learning and improvement. Enthusiastic about breaking down complex domain proble
 phases, from concept to development and deployment, prioritizing clarity over cleverness and focusing on functional,
 maintainable solutions.
 
-![mike-scale](/Users/mike/Downloads/mike-scale.png)
+![mike-scale](./mike-scale.png)
 
 ---
 
