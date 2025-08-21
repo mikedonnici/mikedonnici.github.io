@@ -1,63 +1,82 @@
 ## Mike Donnici
 
-Jervis Bay \| michael.donnici@gmail.com \| linkedin.com/in/mikedonnici \| github.com/mikedonnici
+Jervis Bay | michael.donnici@gmail.com | linkedin.com/in/mikedonnici | github.com/mikedonnici
 
 ---
 
 ### Overview
 
-An experienced software engineer specializing in backend services with Go and Python, driven by a passion for continuous learning and improvement. Enthusiastic about breaking down complex domain problems, I actively contribute across all phases, from concept to development and deployment, prioritizing clarity over cleverness and focusing on functional, maintainable solutions.
+Experienced software engineer specializing in back-end services with Go and Python. Focused on breaking down complex domain problems and contributing across design, implementation, testing, and operations. Prioritizes clarity over cleverness; delivers functional, maintainable solutions.
+
+---
+### Skills
+
+- Languages: Go, Python
+- APIs: REST, gRPC
+- Data stores: PostgreSQL, MySQL
+- Cloud/Infra: GCS, AWS, Linux, Docker
+- Geospatial: PostGIS
+- Practices: Microservices, API design, domain modeling, CI/CD
 
 ---
 
+
 ### Professional Experience
 
-**Senior Software Engineer, Regrow Ag**
-*Remote | Oct 2021 – Present*
+**Contracting Back-end Services Developer (Go & Python)**
+*Remote | Jul 2025 – Present*
 
-- Engineering of core backend services - Go, Python MySQL, Postgres
-- Integration with third-party farm management systems
-- Re-architecting services to improve performance, scalability and alignment with domain requirements
-- Cross-team collaboration on service definition and design
+- Build and maintain back-end services and APIs in Go and Python
+- Design and implement REST and gRPC endpoints
+- Ensure service reliability, scalability, and maintainability
+- Collaborate with stakeholders to define requirements and deliver solutions
+
+**Senior Software Engineer, Regrow Ag**
+*Remote | Oct 2021 – Jun 2025*
+
+- Engineered core back-end services using Go, Python, MySQL, and PostgreSQL
+- Integrated with third-party farm management systems
+- Re-architected services to improve performance, scalability, and domain alignment
+- Collaborated across teams on service definition and design
 
 **Geoscience Data Systems Developer, Geological Survey of New South Wales**
 *Remote | Nov 2020 – Oct 2021*
 
-- Fullstack engineering of public-facing web applications - Python, Postgres, Geoserver, Angular
-- Server management and DevOps - AWS, Linux, SaltStack
-- Collaboration with Geoscience Data Team on application feature design and development
-- Acquire fundamental skills in various geospatial tools and technology
+- Developed public-facing web applications with Python, PostgreSQL, GeoServer, and Angular
+- Managed servers and DevOps with AWS, Linux, and SaltStack
+- Collaborated with geoscience data team on application feature design and development
+- Worked with geospatial tools and workflows
 
 **Senior Software Engineer, Humanetix**
-*Canberra & Remote | Sep 2019 - Nov 2020*
+*Canberra & Remote | Sep 2019 – Nov 2020*
 
-- Engineering of microservices for healthcare application - Go, Kotlin, Postgres, Kafka
-- Development of a prototype data analysis component - Python
-- Assisting with DevOps tasks - AWS, Linux, Docker, Jenkins
+- Engineered microservices for a healthcare application using Go, Kotlin, PostgreSQL, and Kafka
+- Developed a prototype data analysis component in Python
+- Supported DevOps tasks including AWS, Linux, Docker, and Jenkins
 
 **Online Service Manager, Cardiac Society of Australia and New Zealand**
-*Sydney & Remote | Feb 2014 - Sep 2019*
+*Sydney & Remote | Feb 2014 – Sep 2019*
 
-- Maintenance and support of custom CPD application - PHP, MySQL, AWS, Heroku
-- Transition monolith to front and backend services - Go, Vue
+- Maintained and supported a custom CPD application (PHP, MySQL, AWS, Heroku)
+- Transitioned a monolith to front- and back-end services using Go and Vue
 
 **Owner / Director, Mesa**
-*Sydney & Remote | 2000 - 2018*
+*Sydney & Remote | 2000 – 2018*
 
 - Managed a diverse range of web and LAMP stack projects
-- Contract Linux systems management
+- Provided Linux systems administration
 
 **Network Support Technician, SouthWest ComputeAble**
-*Margaret River | 1998 - 2000*
+*Margaret River | 1998 – 2000*
 
-- Hardware repair and maintenance for computers, servers and printers
-- Elevated businesses networking capabilities by acquiring Microsoft Certified Systems Engineer certification
-- Network installation and support for business customers
+- Repaired and maintained computer, server, and printer hardware
+- Delivered business networking solutions as a Microsoft Certified Systems Engineer
+- Installed and supported networks for business clients
 
 **Data Cabling Technician, Cocom**
-*Port Macquarie | 1997-1998*
+*Port Macquarie | 1997 – 1998*
 
-- Rapidly acquired skills for coaxial and cat5 data cabling installation and testing
+- Installed and tested coaxial and Category 5 cabling
 - Assisted with contract network support for Base Hospital and other clients
 
 ---
@@ -65,7 +84,7 @@ An experienced software engineer specializing in backend services with Go and Py
 ### Education
 
 **Continuous Professional Development, Autodidact School of Self-Driven Learning**
-*Remote | 2000 - present*
+*Remote | 2000 – present*
 
 **Microsoft Certified Systems Engineer (NT4.0)**
 *Remote | 2000*
@@ -75,5 +94,3 @@ An experienced software engineer specializing in backend services with Go and Py
 
 **Bachelor of Science in Agriculture (Crop Science), University of Sydney**
 *Camperdown | 1992*
-
----
